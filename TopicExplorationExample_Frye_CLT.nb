@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[    256668,       5104]
-NotebookOptionsPosition[    244080,       4815]
-NotebookOutlinePosition[    246762,       4877]
-CellTagsIndexPosition[    246719,       4874]
+NotebookDataLength[    258155,       5144]
+NotebookOptionsPosition[    245126,       4845]
+NotebookOutlinePosition[    247808,       4907]
+CellTagsIndexPosition[    247765,       4904]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -4739,6 +4739,36 @@ v3pJfd/CdqV31Gfjpep+N7W+8f8Am8gMgA==
    3.7075785541079226`*^9, 3.7075785639589367`*^9}},
  CellLabel->
   "Out[309]=",ExpressionUUID->"b636a6a9-db92-44ef-b0a9-38a0e841309e"]
+}, Open  ]],
+
+Cell["\<\
+Richard's Furniture Company delivers furniture from 10 A.M. to 2 P.M. \
+continuously and uniformly. We are interested in how long (in hours) past the \
+10 A.M. start time that individuals wait for their delivery.\
+\>", "Text",
+ CellChangeTimes->{{3.707580842527001*^9, 
+  3.707580844431349*^9}},ExpressionUUID->"2b5c4432-42cc-4a1e-9197-\
+1bae9eccc1b4"],
+
+Cell[CellGroupData[{
+
+Cell["What is the distribution of the wait time?", "Item",
+ CellChangeTimes->{{3.707580933014142*^9, 
+  3.7075809390144014`*^9}},ExpressionUUID->"753b219d-26a8-4be5-a764-\
+1f3dc9167b32"],
+
+Cell["What is the average wait time?", "Item",
+ CellChangeTimes->{{3.707580933014142*^9, 
+  3.7075809581160007`*^9}},ExpressionUUID->"0f6f2398-399f-4ab9-87f4-\
+bd564de3d501"],
+
+Cell["\<\
+Suppose that it is now past noon on a delivery day. What is the probability \
+that a person must wait at least 1.5 more hours?\
+\>", "Item",
+ CellChangeTimes->{{3.707580933014142*^9, 
+  3.7075809855265417`*^9}},ExpressionUUID->"39067af4-a56a-422e-ab15-\
+ca294a252d29"]
 }, Open  ]]
 }, Open  ]],
 
@@ -5079,30 +5109,40 @@ Cell[204262, 4031, 1799, 39, 46, "Input", "ExpressionUUID" -> \
 "6d2eadd9-c55e-41b7-baf6-6f97fc0c7585"],
 Cell[206064, 4072, 35155, 668, 245, "Output", "ExpressionUUID" -> \
 "b636a6a9-db92-44ef-b0a9-38a0e841309e"]
+}, Open  ]],
+Cell[241234, 4743, 362, 7, 49, "Text", "ExpressionUUID" -> \
+"2b5c4432-42cc-4a1e-9197-1bae9eccc1b4"],
+Cell[CellGroupData[{
+Cell[241621, 4754, 186, 3, 29, "Item", "ExpressionUUID" -> \
+"753b219d-26a8-4be5-a764-1f3dc9167b32"],
+Cell[241810, 4759, 174, 3, 29, "Item", "ExpressionUUID" -> \
+"0f6f2398-399f-4ab9-87f4-bd564de3d501"],
+Cell[241987, 4764, 278, 6, 29, "Item", "ExpressionUUID" -> \
+"39067af4-a56a-422e-ab15-ca294a252d29"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[241268, 4746, 234, 4, 58, "FurtherExplorationSection", "ExpressionUUID" \
+Cell[242314, 4776, 234, 4, 58, "FurtherExplorationSection", "ExpressionUUID" \
 -> "b9532093-d59d-4bda-839f-ceb7c0b6d676"],
-Cell[241505, 4752, 479, 7, 26, "FurtherExploration", "ExpressionUUID" -> \
+Cell[242551, 4782, 479, 7, 26, "FurtherExploration", "ExpressionUUID" -> \
 "f39c9e5c-cbea-49bb-be64-196b92149f16"],
-Cell[241987, 4761, 464, 8, 26, "FurtherExploration", "ExpressionUUID" -> \
+Cell[243033, 4791, 464, 8, 26, "FurtherExploration", "ExpressionUUID" -> \
 "3e8db735-9416-4f9c-8a45-fe4d251018be"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[242488, 4774, 179, 3, 58, "AuthorshipSection", "ExpressionUUID" -> \
+Cell[243534, 4804, 179, 3, 58, "AuthorshipSection", "ExpressionUUID" -> \
 "3dea23e4-8ce7-4f0e-a74f-75530771ceb4"],
-Cell[242670, 4779, 258, 4, 24, "Authorship", "ExpressionUUID" -> \
+Cell[243716, 4809, 258, 4, 24, "Authorship", "ExpressionUUID" -> \
 "19619f5c-baa3-400c-a7fc-71dd69c4e608"],
-Cell[242931, 4785, 258, 4, 24, "Authorship", "ExpressionUUID" -> \
+Cell[243977, 4815, 258, 4, 24, "Authorship", "ExpressionUUID" -> \
 "5e7e7f5a-3a74-4c9b-ae75-2f8cc5af4227"],
-Cell[243192, 4791, 263, 4, 24, "Authorship", "ExpressionUUID" -> \
+Cell[244238, 4821, 263, 4, 24, "Authorship", "ExpressionUUID" -> \
 "12267ac3-5f7f-44b7-b877-91120b895354"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[243492, 4800, 220, 4, 58, "AuthorshipSection", "ExpressionUUID" -> \
+Cell[244538, 4830, 220, 4, 58, "AuthorshipSection", "ExpressionUUID" -> \
 "928dfbad-337b-4b0b-ab91-c86d6873aeab"],
-Cell[243715, 4806, 337, 5, 24, "Authorship", "ExpressionUUID" -> \
+Cell[244761, 4836, 337, 5, 24, "Authorship", "ExpressionUUID" -> \
 "f1155807-9021-4887-9946-84ee7ca56503"]
 }, Open  ]]
 }, Open  ]]
