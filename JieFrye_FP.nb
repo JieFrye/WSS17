@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    398480,       6972]
-NotebookOptionsPosition[     81125,       1535]
-NotebookOutlinePosition[    393926,       6869]
-CellTagsIndexPosition[    393630,       6857]
+NotebookDataLength[    405968,       7138]
+NotebookOptionsPosition[     87406,       1677]
+NotebookOutlinePosition[    400206,       7011]
+CellTagsIndexPosition[    399910,       6999]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1372,24 +1372,166 @@ Cell["Code", "TemplateSubsection",
    3.549542327097245*^9},ExpressionUUID->"c54bc669-1d00-4e87-877b-\
 cfd746ce37fa"],
 
-Cell["Provide one of:", "TemplateComment",
- CellChangeTimes->{{3.70811356171093*^9, 
-  3.7081135645971746`*^9}},ExpressionUUID->"a672a6f1-f8fa-4628-83e3-\
-5438bd707f89"],
-
 Cell[CellGroupData[{
 
 Cell["Link to the GitHub: https://github.com/JieFrye/WSS17", "Item",
  CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
-  3.7081861134780617`*^9, 
-  3.708186114383243*^9}},ExpressionUUID->"66883a1c-6bbf-428e-84bc-\
+  3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265383417411*^9, 
+  3.708265383417411*^9}},ExpressionUUID->"66883a1c-6bbf-428e-84bc-\
 a7c0ba375299"],
 
-Cell["Explicit code", "Item",
- CellChangeTimes->{{3.708096312466115*^9, 
-  3.7080963343962107`*^9}},ExpressionUUID->"7c9362c5-ee46-4875-bc37-\
-652189adc85e"]
-}, Open  ]]
+Cell["Measures of Center", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+  3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+  3.708265410829859*^9}},ExpressionUUID->"84c4452a-64cb-4466-9d10-\
+061c3107446e"]
+}, Open  ]],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_MeaCenter.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9},ExpressionUUID->"c29e54eb-5816-4e49-9fcb-\
+d7c794f19f36"],
+
+Cell["Probability", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+   3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+   3.7082653936085863`*^9}, 
+   3.708265683743473*^9},ExpressionUUID->"9c2b68f6-c767-4674-b904-\
+4bcadf1dfa22"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_Prob.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 
+   3.708265686220682*^9}},ExpressionUUID->"68602a9a-2052-4fc1-98f3-\
+363b884c7343"],
+
+Cell["Discrete Probability Distribution", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+  3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+  3.7082653936085863`*^9}, {3.708265683743473*^9, 
+  3.708265706911163*^9}},ExpressionUUID->"4cae518c-bc29-4f84-bd7c-\
+eb764442bf7f"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_DiscreteRV.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 3.708265686220682*^9}, 
+   3.708265806680805*^9},ExpressionUUID->"e4dffa35-a94b-4df0-b915-\
+6803f8e3f0fe"],
+
+Cell["Continuous Probability Distribution", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+  3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+  3.7082653936085863`*^9}, {3.708265683743473*^9, 
+  3.7082657123745713`*^9}},ExpressionUUID->"a906a49b-328a-4905-9bc6-\
+5a062127cd93"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_ContinuousRV.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 3.708265686220682*^9}, 
+   3.708265795955802*^9},ExpressionUUID->"3499a766-c765-4389-871e-\
+77cb818d5234"],
+
+Cell["Central Limit Theorem", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+  3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+  3.7082653936085863`*^9}, {3.708265683743473*^9, 
+  3.708265745765354*^9}},ExpressionUUID->"fdd2c342-d165-46da-82cf-\
+a515c554dd79"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_CLT.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 3.708265686220682*^9}, 
+   3.708265770485551*^9},ExpressionUUID->"737cbed2-47d6-48f7-8589-\
+04a587b8a4f1"],
+
+Cell["Confidence Interval for Population Proportion", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+   3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+   3.7082653936085863`*^9}, 3.708265683743473*^9, 
+   3.708265719097291*^9},ExpressionUUID->"7d4421e7-7b94-4a8c-be95-\
+b572b3d5a907"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_CIprop.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 3.708265686220682*^9}, 
+   3.708265817215002*^9},ExpressionUUID->"9947958d-d4bf-4472-9eb5-\
+71bd03579d87"],
+
+Cell["Confidence Interval for Population Mean", "Item",
+ CellChangeTimes->{{3.7080963065367527`*^9, 3.708096309577277*^9}, {
+   3.7081861134780617`*^9, 3.708186114383243*^9}, {3.708265384388218*^9, 
+   3.7082653936085863`*^9}, 3.708265683743473*^9, 
+   3.708265725201419*^9},ExpressionUUID->"48a1cbae-fd5d-4802-a3c8-\
+1dd1ecbeaf74"],
+
+Cell[TextData[ButtonBox["https://github.com/JieFrye/WSS17/blob/master/\
+TopicExplorationExample_Frye_CImu.nb",
+ BaseStyle->"Hyperlink",
+ ButtonData->{
+   URL["https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%\
+20Deriv%20and%20Diff.nb"], None},
+ ButtonNote->
+  "https://github.com/DanUhlman/starthere/blob/master/1%20Defn%20of%20Deriv%\
+20and%20Diff.nb"]], "Text",
+ CellChangeTimes->{
+  3.708256447217019*^9, {3.7082564795740356`*^9, 3.708256479578066*^9}, 
+   3.70826543468042*^9, {3.7082656772550244`*^9, 3.708265686220682*^9}, 
+   3.7082658258161244`*^9},ExpressionUUID->"f987dec7-6369-4795-8ed2-\
+268db6f4656f"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1414,8 +1556,8 @@ Linear Regression
    \[RightPointer] Linear Correlation Coefficient
    \[RightPointer] Regression Line\
 \>", "Text",
- CellChangeTimes->{{3.708188487472614*^9, 
-  3.70818849199972*^9}},ExpressionUUID->"37226688-7361-40a7-a5dc-\
+ CellChangeTimes->{{3.708188487472614*^9, 3.70818849199972*^9}, 
+   3.7082653726143417`*^9},ExpressionUUID->"37226688-7361-40a7-a5dc-\
 79062857c8d8"]
 }, Open  ]],
 
@@ -1533,8 +1675,8 @@ ed733929beeb"]
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1366, 685},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{1350, 685},
+WindowMargins->{{-8, Automatic}, {Automatic, 0}},
 FrontEndVersion->"11.1 for Microsoft Windows (64-bit) (April 27, 2017)",
 StyleDefinitions->Notebook[{
    Cell[
@@ -6828,27 +6970,27 @@ CellTagsIndex->{
    af97-384319088275",
    CellTags->"Affiliation"]},
  "DataSources"->{
-  Cell[77574, 1433, 257, 4, 
+  Cell[83855, 1575, 257, 4, 
   62, "TemplateSubsection", "ExpressionUUID" -> "595aec4a-a293-426a-
    b50c-4acce4123cb2",
    CellTags->"DataSources"]},
  "FutureDirections"->{
-  Cell[77834, 1439, 276, 4, 
+  Cell[84115, 1581, 276, 4, 
   62, "TemplateSubsection", "ExpressionUUID" -> "e5647c6a-
    cb6b-4235-8887-8cfbb24ef769",
    CellTags->"FutureDirections"]},
  "References"->{
-  Cell[78113, 1445, 313, 5, 
+  Cell[84394, 1587, 313, 5, 
   62, "TemplateSubsection", "ExpressionUUID" -> "f66f7ca2-dcb9-4c06-9d0a-
    f2cc48d9fd79",
    CellTags->"References"]},
  "Keywords"->{
-  Cell[78451, 1454, 182, 2, 
+  Cell[84732, 1596, 182, 2, 
   62, "TemplateSubsection", "ExpressionUUID" -> "0a9d4fd1-d336-4f32-
    b85d-12e6f9eed8ed",
    CellTags->"Keywords"]},
  "LastModifiedDate"->{
-  Cell[79945, 1498, 232, 7, 
+  Cell[86226, 1640, 232, 7, 
   29, "LastModified", "ExpressionUUID" -> "06b7457a-5448-4c19-a3de-
    e1201e7cc8a5",
    CellTags->"LastModifiedDate"]}
@@ -6856,14 +6998,14 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Author", 392300, 6814},
- {"Mentor", 392453, 6819},
- {"Affiliation", 392611, 6824},
- {"DataSources", 392774, 6829},
- {"FutureDirections", 392948, 6834},
- {"References", 393121, 6839},
- {"Keywords", 393286, 6844},
- {"LastModifiedDate", 393457, 6849}
+ {"Author", 398580, 6956},
+ {"Mentor", 398733, 6961},
+ {"Affiliation", 398891, 6966},
+ {"DataSources", 399054, 6971},
+ {"FutureDirections", 399228, 6976},
+ {"References", 399401, 6981},
+ {"Keywords", 399566, 6986},
+ {"LastModifiedDate", 399737, 6991}
  }
 *)
 (*NotebookFileOutline
@@ -6919,58 +7061,82 @@ Cell[75106, 1361, 270, 4, 73, "TemplateSubsection", "ExpressionUUID" -> \
 Cell[CellGroupData[{
 Cell[75401, 1369, 183, 3, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "c54bc669-1d00-4e87-877b-cfd746ce37fa"],
-Cell[75587, 1374, 169, 3, 30, "TemplateComment", "ExpressionUUID" -> \
-"a672a6f1-f8fa-4628-83e3-5438bd707f89"],
 Cell[CellGroupData[{
-Cell[75781, 1381, 247, 4, 29, "Item", "ExpressionUUID" -> \
+Cell[75609, 1376, 293, 4, 29, "Item", "ExpressionUUID" -> \
 "66883a1c-6bbf-428e-84bc-a7c0ba375299"],
-Cell[76031, 1387, 157, 3, 29, "Item", "ExpressionUUID" -> \
-"7c9362c5-ee46-4875-bc37-652189adc85e"]
-}, Open  ]]
+Cell[75905, 1382, 259, 4, 29, "Item", "ExpressionUUID" -> \
+"84c4452a-64cb-4466-9d10-061c3107446e"]
+}, Open  ]],
+Cell[76179, 1389, 559, 12, 30, "Text", "ExpressionUUID" -> \
+"c29e54eb-5816-4e49-9fcb-d7c794f19f36"],
+Cell[76741, 1403, 282, 5, 29, "Item", "ExpressionUUID" -> \
+"9c2b68f6-c767-4674-b904-4bcadf1dfa22"],
+Cell[77026, 1410, 606, 13, 30, "Text", "ExpressionUUID" -> \
+"68602a9a-2052-4fc1-98f3-363b884c7343"],
+Cell[77635, 1425, 325, 5, 29, "Item", "ExpressionUUID" -> \
+"4cae518c-bc29-4f84-bd7c-eb764442bf7f"],
+Cell[77963, 1432, 634, 13, 30, "Text", "ExpressionUUID" -> \
+"e4dffa35-a94b-4df0-b915-6803f8e3f0fe"],
+Cell[78600, 1447, 329, 5, 29, "Item", "ExpressionUUID" -> \
+"a906a49b-328a-4905-9bc6-5a062127cd93"],
+Cell[78932, 1454, 636, 13, 30, "Text", "ExpressionUUID" -> \
+"3499a766-c765-4389-871e-77cb818d5234"],
+Cell[79571, 1469, 313, 5, 29, "Item", "ExpressionUUID" -> \
+"fdd2c342-d165-46da-82cf-a515c554dd79"],
+Cell[79887, 1476, 627, 13, 30, "Text", "ExpressionUUID" -> \
+"737cbed2-47d6-48f7-8589-04a587b8a4f1"],
+Cell[80517, 1491, 338, 5, 29, "Item", "ExpressionUUID" -> \
+"7d4421e7-7b94-4a8c-be95-b572b3d5a907"],
+Cell[80858, 1498, 630, 13, 30, "Text", "ExpressionUUID" -> \
+"9947958d-d4bf-4472-9eb5-71bd03579d87"],
+Cell[81491, 1513, 332, 5, 29, "Item", "ExpressionUUID" -> \
+"48a1cbae-fd5d-4802-a3c8-1dd1ecbeaf74"],
+Cell[81826, 1520, 630, 13, 30, "Text", "ExpressionUUID" -> \
+"f987dec7-6369-4795-8ed2-268db6f4656f"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[76237, 1396, 211, 3, 73, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[82493, 1538, 211, 3, 73, "TemplateSubsection", "ExpressionUUID" -> \
 "a55786c3-e7a6-4cf3-bb54-b05532239df1"],
-Cell[76451, 1401, 578, 17, 258, "Text", "ExpressionUUID" -> \
+Cell[82707, 1543, 603, 17, 258, "Text", "ExpressionUUID" -> \
 "37226688-7361-40a7-a5dc-79062857c8d8"]
 }, Open  ]],
-Cell[77044, 1421, 249, 4, 73, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[83325, 1563, 249, 4, 73, "TemplateSubsection", "ExpressionUUID" -> \
 "5a247b12-4033-40a4-960f-65d46bf0f9c2"],
-Cell[77296, 1427, 275, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[83577, 1569, 275, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "f27ae70e-91c7-4506-8835-21b281190700"],
-Cell[77574, 1433, 257, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[83855, 1575, 257, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "595aec4a-a293-426a-b50c-4acce4123cb2",
  CellTags->"DataSources"],
-Cell[77834, 1439, 276, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[84115, 1581, 276, 4, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "e5647c6a-cb6b-4235-8887-8cfbb24ef769",
  CellTags->"FutureDirections"],
-Cell[78113, 1445, 313, 5, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[84394, 1587, 313, 5, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "f66f7ca2-dcb9-4c06-9d0a-f2cc48d9fd79",
  CellTags->"References"],
 Cell[CellGroupData[{
-Cell[78451, 1454, 182, 2, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[84732, 1596, 182, 2, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "0a9d4fd1-d336-4f32-b85d-12e6f9eed8ed",
  CellTags->"Keywords"],
-Cell[78636, 1458, 230, 4, 30, "TemplateComment", "ExpressionUUID" -> \
+Cell[84917, 1600, 230, 4, 30, "TemplateComment", "ExpressionUUID" -> \
 "98efa464-d671-4dc2-97d9-29e7a0668393"],
 Cell[CellGroupData[{
-Cell[78891, 1466, 255, 4, 29, "Item", "ExpressionUUID" -> \
+Cell[85172, 1608, 255, 4, 29, "Item", "ExpressionUUID" -> \
 "3b9a0db3-df49-4532-b956-8ec2c42dd8bf"],
-Cell[79149, 1472, 210, 4, 29, "Item", "ExpressionUUID" -> \
+Cell[85430, 1614, 210, 4, 29, "Item", "ExpressionUUID" -> \
 "acccdba7-4cc8-463f-9532-578badae9914"],
-Cell[79362, 1478, 206, 4, 29, "Item", "ExpressionUUID" -> \
+Cell[85643, 1620, 206, 4, 29, "Item", "ExpressionUUID" -> \
 "6fa70ac5-41d4-440c-9728-22b9e5506622"]
 }, Open  ]]
 }, Open  ]],
-Cell[79595, 1486, 160, 3, 73, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[85876, 1628, 160, 3, 73, "TemplateSubsection", "ExpressionUUID" -> \
 "7829dc32-1c2b-44a2-9c28-0b354f138b29"],
 Cell[CellGroupData[{
-Cell[79780, 1493, 162, 3, 62, "TemplateSubsection", "ExpressionUUID" -> \
+Cell[86061, 1635, 162, 3, 62, "TemplateSubsection", "ExpressionUUID" -> \
 "1cd568fb-8340-49f7-8b1e-208734b6bb99"],
-Cell[79945, 1498, 232, 7, 29, "LastModified", "ExpressionUUID" -> \
+Cell[86226, 1640, 232, 7, 29, "LastModified", "ExpressionUUID" -> \
 "06b7457a-5448-4c19-a3de-e1201e7cc8a5",
  CellTags->"LastModifiedDate"],
-Cell[80180, 1507, 917, 24, 43, "Input", "ExpressionUUID" -> \
+Cell[86461, 1649, 917, 24, 43, "Input", "ExpressionUUID" -> \
 "387919cf-8311-4ba3-bacd-ed733929beeb"]
 }, Open  ]]
 }, Open  ]]
